@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSMA", "HSMA\HSMA.csproj", "{C46E5FAB-510E-43EB-9FF3-973A2AF3815D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSMA", "HSMA\HSMA.csproj", "{43FE6930-2274-42D7-ABAC-8F10A0315B52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C46E5FAB-510E-43EB-9FF3-973A2AF3815D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C46E5FAB-510E-43EB-9FF3-973A2AF3815D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C46E5FAB-510E-43EB-9FF3-973A2AF3815D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C46E5FAB-510E-43EB-9FF3-973A2AF3815D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FE6930-2274-42D7-ABAC-8F10A0315B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FE6930-2274-42D7-ABAC-8F10A0315B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FE6930-2274-42D7-ABAC-8F10A0315B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FE6930-2274-42D7-ABAC-8F10A0315B52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7817A3A2-7766-40B8-844C-5CFE20471C52}
+		SolutionGuid = {CAF1B056-D410-45DB-B92F-C740AC1DA10C}
 	EndGlobalSection
 EndGlobal
